@@ -1,0 +1,1 @@
+move copy.bat .\NewDir
